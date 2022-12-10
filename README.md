@@ -6,7 +6,7 @@ I'm Raquel, Analyst and Demand Planner for Silicones materials.
 
 🚀 Tools and languages used:
 
-    OFFICE;                    VBA;                    Microsoft Sharepoint;
+    SQL and Phyton;            VBA;                    Microsoft OFFICE and Sharepoint; 
     Power BI;                  Java;                   CorelDraw and Photoshop;
     SAP;                       MATLAB;                 AutoCAD and SolidWorks;
 
